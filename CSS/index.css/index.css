@@ -96,3 +96,16 @@ footer {
     margin-top: 30px;
     padding: 20px;
 }
+#projects ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 0;
+    list-style: none;
+}
+
+#projects li {
+    background-color: #eeeeee;
+    padding: 15px;
+    border-radius: 5px;
+}
